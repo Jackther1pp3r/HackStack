@@ -1,0 +1,48 @@
+body
+{
+    background: url(../assets/wsubg.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.card
+{
+    
+}
+.front-tiles
+{
+    padding-top: 10%;
+    vertical-align: auto;
+    
+}
+.center {
+    margin: auto;
+    text-align: center;
+}
+.top-pad
+{
+    padding-top: 3%;
+}
+.spacing
+{
+    padding: 5%;
+}
+.lower-para
+{
+    margin: auto;
+    width: 98%;
+    margin-top: 3%;
+}
+.lower-fill
+{
+    border-radius: 5px;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+}
+.card-img
+{
+    padding:5em;
+}
