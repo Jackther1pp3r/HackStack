@@ -15,3 +15,7 @@ Folders in the Workspace are as listed:
     - Prototyping Resources Folder 
         Used for storing code associated with Prototyping of devices, programs, etc.
 
+
+Copyrighting 
+    - When uploading any code to the repository comment into the code at the top:
+        "Copyright 2020 HackStack Technologies LLC. Unauthorized use or reproduction of this content and/or material is prohibited."
