@@ -8,3 +8,10 @@ In this repository there are a few different folders that shouldn't be altered u
     The File directory is set up the same way so when programming different pages for the web interface, 
     file paths can be set to what they will be on the server.
 
+
+
+Folders in the Workspace are as listed:
+    - Web Development Folder
+    - Prototyping Resources Folder 
+        Used for storing code associated with Prototyping of devices, programs, etc.
+
