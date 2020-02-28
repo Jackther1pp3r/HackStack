@@ -1,6 +1,6 @@
 Copyright 2020 HackStack Technologies LLC.
 
-Hello and welcome to the HackStack Technologies Github.
+Hello and welcome to the HackStack Technologies repository.
 
 In this repository there are a few different folders that shouldn't be altered unless approved.
 1. Production Folder
